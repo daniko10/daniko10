@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate student of Applied Computer Science, AGH</h3>
-<img align="right" width="400" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s58e4eaafb83002d2/backgroundarea/ie6260e000d6dbc52/version/1492912616/image.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniko10&label=Profile%20views&color=0e75b6&style=flat" alt="daniko10" /> </p>
+
+<img align="right" src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="400">
 
 - 🔭 I’m currently working on **PLOT-DESIGNER**
 
 - 🌱 I’m currently learning **C#, .net, ML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/daniko10?tab=repositories](https://github.com/daniko10?tab=repositories)
 
 - 📫 How to reach me **dczapla79@gmail.com**
 
@@ -25,3 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniko10&show_icons=true&locale=en" alt="daniko10" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniko10&" alt="daniko10" /></p>
