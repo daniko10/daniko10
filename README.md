@@ -3,9 +3,9 @@
 
 <img align="right" src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="400">
 
-- 🔭 I’m currently working on **STOP-MOTION**
+- 🔭 I’m currently working on **STOP-MOTION and Waste-Image-Classification**
 
-- 🌱 I’m currently learning **C#, .net, ML**
+- 🌱 I’m currently learning **ML, Python**
 
 - 📫 How to reach me **dczapla79@gmail.com**
 
