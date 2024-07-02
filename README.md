@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="400">
 
-- 🔭 I’m currently working on **STOP-MOTION and Waste-Image-Classification**
+- 🔭 I’m currently working on **Waste-Image-Classification**
 
 - 🌱 I’m currently learning **ML, Python**
 
